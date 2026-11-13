@@ -1,3 +1,3 @@
-# Random BL CLI
+# Random Rec CLI
 
 #### -> TUI App to test some TIO framework alongside with scrapping framework
